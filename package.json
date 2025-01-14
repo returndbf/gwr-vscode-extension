@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "gwr-vscode-extension.helloWorld",
-        "title": "Hello World"
+        "command": "gwr",
+        "title": "gen-week-report"
       }
     ]
   },
